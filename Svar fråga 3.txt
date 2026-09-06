@@ -1,0 +1,13 @@
+Samarbete med GitHub: Flera personer kan arbeta på en och samma projekt och dela kod utan att skriva över varandras ändringar.
+
+
+Branch: En separat version av projektet där du kan göra ändringar utan att påverka huvudprojektet direkt.
+
+
+Pull request: En förfrågan om att lägga in dina ändringar från din branch i huvudprojektet. Andra kan granska ändringarna först.
+
+
+Merge: När man slår ihop ändringar från en branch med en annan, till exempel med main så allt blir kopplat.
+
+Exempel
+Du skapar en ny branch sen ändrar koden, därefter gör du en pull request för att se om dina ändringar är tillåtna i huvudprojektet, någon granskar de leder sen till att ändringarna mergas.
