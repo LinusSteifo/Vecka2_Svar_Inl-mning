@@ -1,0 +1,9 @@
+Vad är en Git-commit?
+En git commit är som en start punkt för ditt projekt. Den sparar de ändringar man har gjort och gör det möjligt att gå tillbaka till en tidigare version om något går fel. 
+Såsom Neemo nämnt så ska vi specifiera vad commiten heter så man vet vilken del de är. 
+Varför är det viktigt?
+Se vad som har ändrats.
+Gå tillbaka till en fungerande version ifall något skulle gå fel.
+Samarbeta med andra utan att förlora kod.
+Exempel
+Du ändrar mycket kod på din hemsida och plötsligt slutan den fungera. Eftersom du nu gjorde en commit innan ändringarna så kan du gå tillbaka, med andra ord är det en säkerhets kopia.
