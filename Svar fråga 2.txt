@@ -5,5 +5,6 @@ Varför är det viktigt?
 Se vad som har ändrats.
 Gå tillbaka till en fungerande version ifall något skulle gå fel.
 Samarbeta med andra utan att förlora kod.
-Exempel
+
+Exempel:
 Du ändrar mycket kod på din hemsida och plötsligt slutan den fungera. Eftersom du nu gjorde en commit innan ändringarna så kan du gå tillbaka, med andra ord är det en säkerhets kopia.
