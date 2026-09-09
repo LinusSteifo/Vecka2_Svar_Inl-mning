@@ -2,4 +2,4 @@ Vattenfallmetoden: Man arbetar steg för steg och planerar hela projektet från 
 
 Agil metoden: Man arbetar i mindre delar och förbättrar projektet ständigt utifrån feedbacken man får. Passar när kraven kan förändras och  man behöver vara flexibel.
 
-Kort förklarat, Så väljer du vattenfall när du vet exakt vad som ska göras. Välj agilt när du behöver kunna ändra och anpassa projektet under tiden.
+Kort förklarat, Så väljer du vattenfall när du vet exakt vad som ska göras. Med andra ord en välstrukturerad plan där ändring inte krävs. Välj agilt när du behöver kunna ändra och anpassa projektet under tiden.
