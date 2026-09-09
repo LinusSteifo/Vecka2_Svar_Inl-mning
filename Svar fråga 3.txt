@@ -11,3 +11,4 @@ Merge: När man slår ihop ändringar från en branch med en annan, till exempel
 
 Exempel:
 Du skapar en ny branch sen ändrar koden, därefter gör du en pull request för att se om dina ändringar är tillåtna i huvudprojektet, någon granskar de vilket leder till att ändringarna mergas.
+
